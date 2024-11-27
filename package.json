@@ -1,0 +1,20 @@
+{
+  "name": "tp_12",
+  "version": "1.0.0",
+  "main": "rentalCal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "LuisCurzi22",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
